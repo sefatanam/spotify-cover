@@ -20,7 +20,7 @@
     "tailwindcss-view-transitions": "^0.1.1",
     "tslib": "^2.6.3",
     "typescript": "^5.2.2",
-    "vite": "^5.3.1"
+    "vite": "^5.4.19"
   },
   "dependencies": {
     "canvas-sketch": "^0.7.7"
